@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Hi, I'm Moustafa Mahmoud I'm a computer sceince student .
 <!--
 **muostafa-mahmoud/muostafa-mahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
